@@ -14,15 +14,15 @@
 -[html](https://cdn-icons-png.flaticon.com/512/174/174854.png)
 -[css](https://cdn-icons-png.flaticon.com/512/732/732190.png)
 -[js](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
--[ruby]([https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
+-[ruby](https://cdn-icons-png.flaticon.com/512/919/919842.png)
 -[git](https://cdn-icons-png.flaticon.com/128/11518/11518876.png)
 
 [comment]: <> (tech_end)
 
 ### images-
 [comment]: <> (images_start)
-![logo](https://octodex.github.com/images/spidertocat.png)
-![image](https://octodex.github.com/images/Octogatos.png)
+![image](https://octodex.github.com/images/spidertocat.png)
+![logo](https://octodex.github.com/images/Octogatos.png)
 
 [comment]: <> (images_end)
 
@@ -37,7 +37,7 @@
 ### badges-
 [comment]: <> (badge_start)
 -[cute](pink)
--[cat](yellow)
+-[cat](orange)
 -[coder](green)
 
 [comment]: <> (badge_end)
