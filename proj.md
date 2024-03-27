@@ -18,13 +18,19 @@
 [comment]: <> (tech_end)
 
 ### images-
+[comment]: <> (images_start)
 ![logo](https://github.com/ashutosh7i.png)
 ![image](https://github.com/ashutosh7i.png)
 
+[comment]: <> (images_end)
+
 ### links-
+[comment]: <> (links_start)
 [deployment](https://ashutosh7i.dev/deployment)
 [github](https://ashutosh7i.dev/github)
 [title](https://ashutosh7i.dev/)
+
+[comment]: <> (links_end)
 
 ### badges-
 [comment]: <> (badge_start)
