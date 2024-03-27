@@ -21,8 +21,8 @@
 
 ### images-
 [comment]: <> (images_start)
-![image](https://octodex.github.com/images/spidertocat.png)
-![logo](https://octodex.github.com/images/Octogatos.png)
+![logo](https://octodex.github.com/images/spidertocat.png)
+![image](https://octodex.github.com/images/Octogatos.png)
 
 [comment]: <> (images_end)
 
